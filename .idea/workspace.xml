@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="9f22df33-a7b8-44f4-a84a-81b87b2e131b" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/Test/Model/Homework.java" afterDir="false" />
@@ -8,6 +9,14 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/Test/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Test/test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
+=======
+    <list default="true" id="e9959c0d-8d71-4d29-82e4-4dabf1245564" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Test/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Test/test.java" afterDir="false" />
+    </list>
+>>>>>>> 4343b650f8bbc7418e6a07581e51a48a8943ca75
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +24,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="FUSProjectUsageTrigger">
     <session id="-1686795767">
       <usages-collector id="statistics.lifecycle.project">
@@ -52,10 +62,24 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+=======
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Test/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+              <folding>
+                <element signature="e#80#81#0" expanded="true" />
+                <element signature="e#116#117#0" expanded="true" />
+              </folding>
+>>>>>>> 4343b650f8bbc7418e6a07581e51a48a8943ca75
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Test/Model/Homework.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -63,10 +87,16 @@
               <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
             </state>
           </provider>
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+>>>>>>> 4343b650f8bbc7418e6a07581e51a48a8943ca75
         </entry>
       </file>
     </leaf>
   </component>
+<<<<<<< HEAD
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -74,6 +104,8 @@
       </list>
     </option>
   </component>
+=======
+>>>>>>> 4343b650f8bbc7418e6a07581e51a48a8943ca75
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -81,7 +113,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/Test/test.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/main/java/Test/Model/Homework.java" />
+=======
+>>>>>>> 4343b650f8bbc7418e6a07581e51a48a8943ca75
       </list>
     </option>
   </component>
@@ -103,11 +138,27 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scope" />
+=======
+      <pane id="PackagesPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="AppDoubleB" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DoubleB" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+>>>>>>> 4343b650f8bbc7418e6a07581e51a48a8943ca75
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
+<<<<<<< HEAD
               <item name="LearningProgressApp" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearningProgressApp" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -119,19 +170,42 @@
             <path>
               <item name="LearningProgressApp" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearningProgressApp" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="AppDoubleB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppDoubleB" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AppDoubleB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppDoubleB" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AppDoubleB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppDoubleB" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 4343b650f8bbc7418e6a07581e51a48a8943ca75
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
+<<<<<<< HEAD
               <item name="LearningProgressApp" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearningProgressApp" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="AppDoubleB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppDoubleB" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 4343b650f8bbc7418e6a07581e51a48a8943ca75
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
+<<<<<<< HEAD
               <item name="LearningProgressApp" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearningProgressApp" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="AppDoubleB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppDoubleB" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 4343b650f8bbc7418e6a07581e51a48a8943ca75
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -141,11 +215,18 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549494229516" />
+=======
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> 4343b650f8bbc7418e6a07581e51a48a8943ca75
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -164,11 +245,19 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="9f22df33-a7b8-44f4-a84a-81b87b2e131b" name="Default Changelist" comment="" />
       <created>1548411586613</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548411586613</updated>
+=======
+      <changelist id="e9959c0d-8d71-4d29-82e4-4dabf1245564" name="Default Changelist" comment="" />
+      <created>1548412185224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548412185224</updated>
+>>>>>>> 4343b650f8bbc7418e6a07581e51a48a8943ca75
     </task>
     <servers />
   </component>
@@ -184,7 +273,11 @@
       <window_info id="Learn" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+=======
+      <window_info anchor="bottom" id="Version Control" />
+>>>>>>> 4343b650f8bbc7418e6a07581e51a48a8943ca75
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -196,23 +289,33 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Theme Preview" />
+<<<<<<< HEAD
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Maven Projects" />
+=======
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+>>>>>>> 4343b650f8bbc7418e6a07581e51a48a8943ca75
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+<<<<<<< HEAD
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+=======
+>>>>>>> 4343b650f8bbc7418e6a07581e51a48a8943ca75
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Test/test.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="60">
           <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
         </state>
@@ -222,6 +325,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+=======
+        <state relative-caret-position="90">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+          <folding>
+            <element signature="e#80#81#0" expanded="true" />
+            <element signature="e#116#117#0" expanded="true" />
+          </folding>
+>>>>>>> 4343b650f8bbc7418e6a07581e51a48a8943ca75
         </state>
       </provider>
     </entry>
